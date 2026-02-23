@@ -26,4 +26,4 @@ Você pode visualizar o projeto online através do GitHub Pages:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/CaioFrancisco/My-First-Page](https://github.com/CaioFrancisco/My-First-Page)
